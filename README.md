@@ -45,8 +45,6 @@ You can install this extension in **two easy ways**:
 4. Browse files grouped by their extension:
    - `.cpp`, `.exe`, `.md`, `no-extension`, etc.
 5. Click any file in the list to open it.
-
----
-
+--
 
 
