@@ -1,4 +1,4 @@
-# 📂 Sort by Extension 🐱
+# 📂 extsort 🐱
 
 A simple and clean Visual Studio Code extension that groups and displays workspace files by their file extension.  
 With a **minimalist cat-folder icon** 🐈‍⬛, it's both functional and adorable!
