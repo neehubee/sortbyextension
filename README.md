@@ -10,12 +10,7 @@ With a **minimalist cat-folder icon** 🐈‍⬛, it's both functional and adora
 - 🔍 Output Channel version for terminal-style display
 - 💻 Click any file to open it directly from the list
 
-## 🔧 Configuration
 
-You can ignore folders in your workspace like so:
-
-```json
-"sortByExtension.ignoreFolders": ["node_modules", ".git", ".vscode"]
 
 
 ## 📥 How to Install
