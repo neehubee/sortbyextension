@@ -30,30 +30,17 @@ You can install this extension in **two easy ways**:
 3. In the search bar, type:
 
    ```
-   sort by extension
+   extsort
    ```
 
-   Or search directly by ID:
-
-   ```
-   neehara.sortbyextension
-   ```
+ 
 
 4. Click **Install** and you're ready!
 
 ---
 
-### ✅ Option 2: Command Line (for advanced users)
 
-If you have the `code` CLI set up, run:
 
-```bash
-code --install-extension neehara.sortbyextension
-```
-
-> This installs the extension directly from the Marketplace.
-
----
 
 ## 🐱 How to Use
 
