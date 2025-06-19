@@ -5,6 +5,7 @@
 
   "displayName": "extsort",
   "description": "organize files by extension in your workplace",
+  "publisher": "neehara",
   "version": "0.0.1",
   "repository": {
   "type": "git",
