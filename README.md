@@ -18,3 +18,53 @@ You can ignore folders in your workspace like so:
 "sortByExtension.ignoreFolders": ["node_modules", ".git", ".vscode"]
 
 
+## 📥 How to Install
+
+You can install this extension in **two easy ways**:
+
+### ✅ Option 1: From VS Code Marketplace
+
+1. Open **Visual Studio Code**
+2. Open the **Extensions view**  
+   > Shortcut: `Ctrl + Shift + X`
+3. In the search bar, type:
+
+   ```
+   sort by extension
+   ```
+
+   Or search directly by ID:
+
+   ```
+   neehara.sortbyextension
+   ```
+
+4. Click **Install** and you're ready!
+
+---
+
+### ✅ Option 2: Command Line (for advanced users)
+
+If you have the `code` CLI set up, run:
+
+```bash
+code --install-extension neehara.sortbyextension
+```
+
+> This installs the extension directly from the Marketplace.
+
+---
+
+## 🐱 How to Use
+
+1. Open a workspace or folder in VS Code
+2. Look for the 🐱 **"Ext Sort"** icon in the **Activity Bar** (left-hand sidebar)
+3. Click the icon to open the custom view
+4. Browse files grouped by their extension:
+   - `.cpp`, `.exe`, `.md`, `no-extension`, etc.
+5. Click any file in the list to open it.
+
+---
+
+
+
